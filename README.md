@@ -1,0 +1,5 @@
+# Pacman AI
+This project consists of exploring and implementing various artificial intelligence techniques and algorithms in the context of the Pacman game.
+The aim of this project is to investigate how virtual agents can make decisions and navigate efficiently in this complex environment. For this, we will explore and implement search algorithms such as Depth First Search (DFS), Breadth First Search (BFS), Uniform Cost Search (UCS) and A* Search. We will adapt these techniques to solve problems specific to the Pacman game, such as finding all the corners or collecting all the pieces of food in the maze. We will also extend the project to include aspects of multi-agent gameplay, where we will implement agents that must take into account the actions and behavior of opponents in making decisions. We will explore algorithms such as Minimax, which are game strategies for competitive games with full information, to create agents capable of anticipating opponents' moves and maximizing their own benefit in the environment.
+
+Programming language: Python
